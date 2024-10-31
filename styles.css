@@ -1,0 +1,12 @@
+body{
+    color:white;
+    backgroun:lightpink
+    margin: 0px;
+}
+
+header{
+    border-bottom: solid 2px rgb(255 105 180)
+    padding: 20px;
+    font-size: 35px;
+    color: rgb(255, 105, 180);
+}
